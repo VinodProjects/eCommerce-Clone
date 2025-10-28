@@ -179,7 +179,7 @@
 
 .hero-section
 {
-    background-image: url("banner.jpg");
+    background-image: url("images/banner.jpg");
     height: 270px;
     background-size: cover;
     display: flex;
@@ -307,7 +307,7 @@ ul a{
 
 .logo1
 {
-    background-image: url("logo.png");
+    background-image: url("images/logo.png");
     background-size: cover;
     width: 70px;
     height: 50px;
